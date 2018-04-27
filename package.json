@@ -1,0 +1,19 @@
+{
+  "name": "web_basic_security",
+  "version": "1.0.0",
+  "description": "T07_WEB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegorb/WEB_basic_security.git"
+  },
+  "author": "Diego Ramirez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diegorb/WEB_basic_security/issues"
+  },
+  "homepage": "https://github.com/diegorb/WEB_basic_security#readme"
+}
